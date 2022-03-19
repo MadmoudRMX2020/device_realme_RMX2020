@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/crystal_RMX2020-userdebug.mk
+    $(LOCAL_DIR)/pex_RMX2020.mk
