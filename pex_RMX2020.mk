@@ -25,7 +25,7 @@ $(call inherit-product, device/realme/RMX2020/device.mk)
 $(call inherit-product, vendor/BootleggersROM/config/common_full_phone.mk)
 
 # Device identifier. This must come after all inclusions.
-PRODUCT_NAME := BootleggersROM_RMX2020
+PRODUCT_NAME := pex_RMX2020
 PRODUCT_DEVICE := RMX2020
 PRODUCT_BRAND := realme
 PRODUCT_MODEL := Realme G70 Series
